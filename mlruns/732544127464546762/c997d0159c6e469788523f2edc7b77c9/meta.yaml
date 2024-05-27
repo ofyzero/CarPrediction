@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/732544127464546762/c997d0159c6e469788523f2edc7b77c9/artifacts
+end_time: 1716675302014
+entry_point_name: ''
+experiment_id: '732544127464546762'
+lifecycle_stage: active
+run_id: c997d0159c6e469788523f2edc7b77c9
+run_name: placid-moose-684
+run_uuid: c997d0159c6e469788523f2edc7b77c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716671248041
+status: 4
+tags: []
+user_id: omer_

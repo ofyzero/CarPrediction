@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/528179410334691141/64aa1d95c2a143f88e859639952f3450/artifacts
+end_time: 1716684587476
+entry_point_name: ''
+experiment_id: '528179410334691141'
+lifecycle_stage: active
+run_id: 64aa1d95c2a143f88e859639952f3450
+run_name: incongruous-mule-839
+run_uuid: 64aa1d95c2a143f88e859639952f3450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716683047612
+status: 3
+tags: []
+user_id: omer_

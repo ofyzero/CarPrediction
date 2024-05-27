@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/319440455022084143/1d9e376d44c94a049f97d86c8986ed5a/artifacts
+end_time: 1716682284073
+entry_point_name: ''
+experiment_id: '319440455022084143'
+lifecycle_stage: active
+run_id: 1d9e376d44c94a049f97d86c8986ed5a
+run_name: industrious-pug-671
+run_uuid: 1d9e376d44c94a049f97d86c8986ed5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716682270647
+status: 3
+tags: []
+user_id: omer_

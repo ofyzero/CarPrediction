@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/732544127464546762/c985c9404fd7471fbbb9aecd5cd361dc/artifacts
+end_time: 1716671185804
+entry_point_name: ''
+experiment_id: '732544127464546762'
+lifecycle_stage: active
+run_id: c985c9404fd7471fbbb9aecd5cd361dc
+run_name: resilient-trout-571
+run_uuid: c985c9404fd7471fbbb9aecd5cd361dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716671159767
+status: 4
+tags: []
+user_id: omer_

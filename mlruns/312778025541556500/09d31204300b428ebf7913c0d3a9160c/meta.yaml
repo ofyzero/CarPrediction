@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/09d31204300b428ebf7913c0d3a9160c/artifacts
+end_time: 1716770112167
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: 09d31204300b428ebf7913c0d3a9160c
+run_name: glamorous-kite-459
+run_uuid: 09d31204300b428ebf7913c0d3a9160c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716770085858
+status: 4
+tags: []
+user_id: omer_

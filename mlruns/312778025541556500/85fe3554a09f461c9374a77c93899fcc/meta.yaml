@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/85fe3554a09f461c9374a77c93899fcc/artifacts
+end_time: 1716769798811
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: 85fe3554a09f461c9374a77c93899fcc
+run_name: whimsical-rook-622
+run_uuid: 85fe3554a09f461c9374a77c93899fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716769788055
+status: 4
+tags: []
+user_id: omer_

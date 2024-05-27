@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/732544127464546762/27ce43f3aa5f4a4f9015f3451723f150/artifacts
+end_time: 1716670219758
+entry_point_name: ''
+experiment_id: '732544127464546762'
+lifecycle_stage: active
+run_id: 27ce43f3aa5f4a4f9015f3451723f150
+run_name: awesome-wolf-635
+run_uuid: 27ce43f3aa5f4a4f9015f3451723f150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716670164179
+status: 4
+tags: []
+user_id: omer_

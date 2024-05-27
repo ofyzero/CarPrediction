@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/732544127464546762/d3c5c1213fd54066a1481332285ddcff/artifacts
+end_time: 1716670822281
+entry_point_name: ''
+experiment_id: '732544127464546762'
+lifecycle_stage: active
+run_id: d3c5c1213fd54066a1481332285ddcff
+run_name: nosy-mink-698
+run_uuid: d3c5c1213fd54066a1481332285ddcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716670818793
+status: 4
+tags: []
+user_id: omer_

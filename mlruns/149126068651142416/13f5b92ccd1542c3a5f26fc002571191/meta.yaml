@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/149126068651142416/13f5b92ccd1542c3a5f26fc002571191/artifacts
+end_time: 1716684620973
+entry_point_name: ''
+experiment_id: '149126068651142416'
+lifecycle_stage: active
+run_id: 13f5b92ccd1542c3a5f26fc002571191
+run_name: rare-dolphin-88
+run_uuid: 13f5b92ccd1542c3a5f26fc002571191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716684587501
+status: 3
+tags: []
+user_id: omer_

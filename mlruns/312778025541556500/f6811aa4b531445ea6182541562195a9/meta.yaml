@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/f6811aa4b531445ea6182541562195a9/artifacts
+end_time: 1716769271691
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: f6811aa4b531445ea6182541562195a9
+run_name: marvelous-crow-919
+run_uuid: f6811aa4b531445ea6182541562195a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716769260899
+status: 4
+tags: []
+user_id: omer_

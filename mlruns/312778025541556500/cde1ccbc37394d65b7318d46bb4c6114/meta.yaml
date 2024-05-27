@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/cde1ccbc37394d65b7318d46bb4c6114/artifacts
+end_time: 1716770461498
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: cde1ccbc37394d65b7318d46bb4c6114
+run_name: thundering-yak-36
+run_uuid: cde1ccbc37394d65b7318d46bb4c6114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716770435444
+status: 4
+tags: []
+user_id: omer_

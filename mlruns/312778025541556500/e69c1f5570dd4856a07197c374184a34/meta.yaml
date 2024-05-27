@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/e69c1f5570dd4856a07197c374184a34/artifacts
+end_time: 1716770359691
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: e69c1f5570dd4856a07197c374184a34
+run_name: rebellious-shrew-466
+run_uuid: e69c1f5570dd4856a07197c374184a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716770341872
+status: 4
+tags: []
+user_id: omer_

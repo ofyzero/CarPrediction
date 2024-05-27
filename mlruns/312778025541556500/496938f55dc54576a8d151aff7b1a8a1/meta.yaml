@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/496938f55dc54576a8d151aff7b1a8a1/artifacts
+end_time: 1716770699410
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: 496938f55dc54576a8d151aff7b1a8a1
+run_name: bright-wolf-585
+run_uuid: 496938f55dc54576a8d151aff7b1a8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716770687527
+status: 4
+tags: []
+user_id: omer_

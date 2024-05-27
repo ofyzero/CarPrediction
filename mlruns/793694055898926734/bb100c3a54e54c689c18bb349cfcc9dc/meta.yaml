@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/793694055898926734/bb100c3a54e54c689c18bb349cfcc9dc/artifacts
+end_time: 1716683047583
+entry_point_name: ''
+experiment_id: '793694055898926734'
+lifecycle_stage: active
+run_id: bb100c3a54e54c689c18bb349cfcc9dc
+run_name: bold-bird-355
+run_uuid: bb100c3a54e54c689c18bb349cfcc9dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716682324556
+status: 3
+tags: []
+user_id: omer_

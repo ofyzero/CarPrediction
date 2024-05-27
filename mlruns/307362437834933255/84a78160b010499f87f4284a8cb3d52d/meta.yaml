@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/307362437834933255/84a78160b010499f87f4284a8cb3d52d/artifacts
+end_time: 1716682324533
+entry_point_name: ''
+experiment_id: '307362437834933255'
+lifecycle_stage: active
+run_id: 84a78160b010499f87f4284a8cb3d52d
+run_name: sincere-zebra-822
+run_uuid: 84a78160b010499f87f4284a8cb3d52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716682284098
+status: 3
+tags: []
+user_id: omer_

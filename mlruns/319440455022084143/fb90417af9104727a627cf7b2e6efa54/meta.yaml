@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/319440455022084143/fb90417af9104727a627cf7b2e6efa54/artifacts
+deleted_time: 1716686079703
+end_time: 1716682153087
+entry_point_name: ''
+experiment_id: '319440455022084143'
+lifecycle_stage: deleted
+run_id: fb90417af9104727a627cf7b2e6efa54
+run_name: delightful-sloth-71
+run_uuid: fb90417af9104727a627cf7b2e6efa54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716682150392
+status: 4
+tags: []
+user_id: omer_

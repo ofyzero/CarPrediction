@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/312778025541556500/3cc9f0c0a20c4262b9615830d2925ca0/artifacts
+end_time: 1716770281778
+entry_point_name: ''
+experiment_id: '312778025541556500'
+lifecycle_stage: active
+run_id: 3cc9f0c0a20c4262b9615830d2925ca0
+run_name: loud-ray-170
+run_uuid: 3cc9f0c0a20c4262b9615830d2925ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716770236361
+status: 4
+tags: []
+user_id: omer_

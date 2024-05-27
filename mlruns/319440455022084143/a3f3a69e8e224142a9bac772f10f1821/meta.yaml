@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/319440455022084143/a3f3a69e8e224142a9bac772f10f1821/artifacts
+deleted_time: 1716686079704
+end_time: 1716682100769
+entry_point_name: ''
+experiment_id: '319440455022084143'
+lifecycle_stage: deleted
+run_id: a3f3a69e8e224142a9bac772f10f1821
+run_name: big-wasp-625
+run_uuid: a3f3a69e8e224142a9bac772f10f1821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716682097995
+status: 4
+tags: []
+user_id: omer_

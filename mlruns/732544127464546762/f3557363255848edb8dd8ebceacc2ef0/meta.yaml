@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/732544127464546762/f3557363255848edb8dd8ebceacc2ef0/artifacts
+end_time: 1716670995994
+entry_point_name: ''
+experiment_id: '732544127464546762'
+lifecycle_stage: active
+run_id: f3557363255848edb8dd8ebceacc2ef0
+run_name: languid-snail-613
+run_uuid: f3557363255848edb8dd8ebceacc2ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716670970285
+status: 4
+tags: []
+user_id: omer_

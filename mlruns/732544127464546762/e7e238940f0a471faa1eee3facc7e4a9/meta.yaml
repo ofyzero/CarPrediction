@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/omer_/Downloads/Truecar-MLE-assignment/Truecar-assignment/mlruns/732544127464546762/e7e238940f0a471faa1eee3facc7e4a9/artifacts
+end_time: 1716679830896
+entry_point_name: ''
+experiment_id: '732544127464546762'
+lifecycle_stage: active
+run_id: e7e238940f0a471faa1eee3facc7e4a9
+run_name: chill-sponge-330
+run_uuid: e7e238940f0a471faa1eee3facc7e4a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716679622614
+status: 4
+tags: []
+user_id: omer_
